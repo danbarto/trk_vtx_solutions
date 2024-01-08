@@ -4,6 +4,9 @@ import DataFormats.FWLite as fwlite
 import math
 import ROOT
 import os
+
+from array import array
+
 from utils import fnal_path as in_path
 
 # make an output directory
